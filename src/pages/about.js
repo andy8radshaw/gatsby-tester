@@ -7,7 +7,7 @@ export default function About() {
   return (
     <div style={{ color: `teal` }}>
       <Header 
-        headerText = "About Gatsby!!!"
+        headerText = "About Gatsby"
       />
       <p>Such wow. Very React!!!!!</p>
     </div>
